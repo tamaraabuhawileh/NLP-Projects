@@ -8,7 +8,7 @@
 ## Web App Preview
 ### Main Screen
 
-![Main]("images/Index.png")
+![Main](images/Index.png)
 
 ### Test 1 - High Similarity 
 
