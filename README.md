@@ -7,8 +7,10 @@
 ### Spacy Model "en_core_web_md"
 ## Web App Preview
 ### Main Screen
-![Main]("Images/Index.png")
+![Main]("images/Index.png")
+
 ### Test 1 - High Similarity 
-![Main]("Images/test_1.png")
+![test1]("images/test_1.png")
+
 ### Test 1 - Low Similarity 
-![Main]("Images/test_2.png")
+![test2]("images/test_2.png")
