@@ -12,8 +12,8 @@
 
 ### Test 1 - High Similarity 
 
-![test1]("images/test_1.png")
+![test1](images/test_1.png)
 
 ### Test 1 - Low Similarity 
 
-![test2]("images/test_2.png")
+![test2](images/test_2.png)
